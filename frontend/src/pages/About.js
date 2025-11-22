@@ -4,32 +4,32 @@ const About = () => {
   const teamMembers = [
     {
       id: 1,
-      name: "Alex Johnson",
+      name: "Shrinivas V B",
       role: "Lead Developer",
-      bio: "Alex has over 10 years of experience in agricultural technology and full-stack development. He leads the technical development of AgriVerse360.",
-      image: "https://images.unsplash.com/photo-1507003211169-0a24e0e7d3f4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=200&q=80"
+      bio: "He leads the technical development of AgriVerse360.",
+     
     },
     {
       id: 2,
-      name: "Maria Garcia",
+      name: "Anu M N",
       role: "AI Specialist",
-      bio: "Maria is an expert in machine learning and computer vision. She developed the disease detection algorithms and crop identification systems.",
-      image: "https://images.unsplash.com/photo-1573496359142-8273bdd0e954?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=200&q=80"
+      bio: "She developed the disease detection algorithms and crop identification systems.",
+    
     },
     {
       id: 3,
-      name: "James Wilson",
+      name: "Sushmitha", K Y"
       role: "IoT Engineer",
-      bio: "James specializes in IoT systems and sensor networks. He designed the hardware infrastructure and real-time data collection systems.",
-      image: "https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=200&q=80"
+      bio: "She designed the hardware infrastructure and real-time data collection systems.",
+     
     },
     {
       id: 4,
-      name: "Sarah Chen",
+      name: "Sadhana Prakash",
       role: "UX Designer",
-      bio: "Sarah focuses on creating intuitive user experiences for farmers. She designed the interface and user workflows for AgriVerse360.",
-      image: "https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=200&q=80"
-    }
+      bio: "She designed the interface and user workflows for AgriVerse360.",
+
+    } 
   ];
 
   return (
