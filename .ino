@@ -6,8 +6,8 @@
 #include <Preferences.h>
 
 // ---------------- USER SETTINGS ----------------
-const char* ssid     = "WifiSSID";
-const char* pass     = "WifiPassword";
+const char* ssid     = "vivo T3 5G";
+const char* pass     = "shree2378";
 
 const char* mqttHost = "mqttServerIP";
 const int   mqttPort = 1883;
