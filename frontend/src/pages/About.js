@@ -18,7 +18,7 @@ const About = () => {
     },
     {
       id: 3,
-      name: "Sushmitha", K Y"
+      name: "Sushmitha K Y"
       role: "IoT Engineer",
       bio: "She designed the hardware infrastructure and real-time data collection systems.",
      
