@@ -9,7 +9,7 @@
 const char* ssid     = "vivo T3 5G";
 const char* pass     = "shree2378";
 
-const char* mqttHost = "mqttServerIP";
+const char* mqttHost = "10.169.92.25";
 const int   mqttPort = 1883;
 const char* mqttUser = "esp32com";
 const char* mqttPass = "esp32aug";
